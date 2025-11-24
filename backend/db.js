@@ -6,7 +6,7 @@ const mysql = require('mysql2');
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root', 
-  password: '1234', // ⚠️ SUBSTITUA PELA SUA SENHA REAL
+  password: '1234', 
   database: 'sistema_produtos', 
   port: 3306,
   // Opção essencial para compatibilidade com o MySQL 8+ (caching_sha2_password)
