@@ -1,7 +1,8 @@
 # Projeto de Avaliação - CRUD de Produtos (Vue.js + Express + MySQL)
 
 Vitor Rodrigo Fraille Pereira -
-Bruno Borcardt
+Bruno Borcardt -
+João Luiz Rodighero Teló
 
 Este projeto implementa um sistema completo de gestão de produtos, utilizando autenticação Google e um fluxo CRUD.
 
