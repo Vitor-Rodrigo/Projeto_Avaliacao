@@ -9,7 +9,7 @@ Este projeto implementa um sistema completo de gestão de produtos, utilizando a
 
 Para rodar o projeto localmente, você precisará ter:
 1.  **Node.js (versão 18+)**
-2.  **MySQL Server** (Recomendamos MySQL 8.0)
+2.  **MySQL Server** (MySQL 8.0)
 3.  **Cliente MySQL** (DBeaver, MySQL Workbench, etc.)
 
 ---
